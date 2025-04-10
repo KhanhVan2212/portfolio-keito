@@ -345,7 +345,7 @@ function ContactEmail() {
   return (
     <div className="mt-2">
       <a
-        href="mailto:aakash4dev.me@gmail.com"
+        href="mailto:nguyenkhanhvan221202@gmail.com  "
         className="text-purple-400 hover:text-purple-300"
       >
         nguyenkhanhvan221202@gmail.com  
