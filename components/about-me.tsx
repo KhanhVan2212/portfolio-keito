@@ -84,9 +84,13 @@ export default function AboutMe() {
               <div className="prose prose-invert max-w-none text-center md:text-left">
                 {/* Mobile description */}
                 <p className="text-lg leading-relaxed md:hidden">
-                  Blockchain Sorcerer 🧙‍♂️ and Full Stack Dev 💻. Building secure,
-                  scalable solutions in the crypto-verse. From DeFi to Web3,
-                  turning complex tech into seamless experiences. ⛓⚡🔥
+                🚀 <strong>Hey, I'm Nguyễn Khánh Văn!</strong>
+                <br />
+                Hello! I'm <strong>Van 🧙‍♂️</strong>,{" "}
+                    <strong>a front-end developer💻</strong>. I’m currently
+                    available for freelance work. If you have a project that you
+                    want to get started or think you need my help with
+                    something, then get in touch.
                 </p>
                 {/* Desktop description */}
                 <div className="hidden md:block">
