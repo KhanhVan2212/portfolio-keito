@@ -248,7 +248,7 @@ shopping experience with a focus on user engagement and customer satisfaction.
                       Schedule a Meeting
                     </a>
                     <a
-                      href="https://www.cake.me/s--0sbsLfCRbWxzsDE72Z_IBQ--/keito221202"
+                      href="https://www.cake.me/keito221202"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-flex items-center justify-center px-4 py-2 border border-transparent text-sm font-medium rounded-md text-white bg-pink-600 hover:bg-pink-700"
